@@ -1,0 +1,4 @@
+Docker makes application deployment more consistent.
+This file is being processed inside a Docker container.
+The output will be written back to the mounted host folder.
+SWE40006 Task 4.4 demonstrates a non-web container application.

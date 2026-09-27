@@ -1,0 +1,5 @@
+File Statistics Report
+======================
+Lines: 4
+Words: 34
+Characters: 232
